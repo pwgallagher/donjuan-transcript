@@ -1,7 +1,5 @@
-# Auto detect text files and normalize to LF in repo
 * text=auto
 
-# Explicit text files
 *.html text
 *.css text
 *.js text
@@ -10,7 +8,6 @@
 *.json text
 *.md text
 
-# Binary files - do not modify line endings
 *.png binary
 *.jpg binary
 *.jpeg binary
@@ -20,10 +17,3 @@
 *.woff binary
 *.woff2 binary
 *.pdf binary
-
-# Force LF for critical files so crawlers don't choke on CRLF
-robots.txt text eol=lf
-llms.txt text eol=lf
-sitemap.xml text eol=lf
-LICENSE text eol=lf
-
