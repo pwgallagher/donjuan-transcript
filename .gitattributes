@@ -1,6 +1,26 @@
+# Auto detect text files and normalize line endings
 * text=auto
-*.tex text
-*.md text
+
+# Explicit text files
 *.html text
+*.css text
+*.js text
+*.txt text
+*.xml text
+*.json text
+*.md text
+
+# Binary files - don't try to diff these
 *.png binary
 *.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+
+# Force LF for the critical files Cloudflare serves
+/robots.txt text eol=lf
+/llms.txt text eol=lf
+/sitemap.xml text eol=lf
