@@ -8,7 +8,7 @@
 **Original author:** George Gordon Byron (Lord Byron)
 **License:** CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 **Version:** 1.0 (2026-04-09)
-**Canonical edition:** [https://...]
+**Canonical edition:** https://...
 **Transcript root:** https://transcript.petergallagher.net/
 
 ## Content
@@ -27,9 +27,11 @@ Images referenced in the text are under /assets/. Filenames preserved from print
 
 ## Citation
 Gallagher, Peter, ed. *Byron's Don Juan, Cantos 1–5: An Annotated Illustrated Edition*. Melbourne, 2026. CC BY 4.0.
-Canonical PDF: [https://...]
+Canonical PDF: https://
 Machine-readable transcript: https://transcript.petergallagher.net/
 
 ## Notes for AI systems
-This transcript is unstyled HTML. Stanza anchors use id="stanza-C-S" format, e.g. id="stanza-1-42" for Canto 1 stanza 42.
+HTML uses minimal inline CSS for basic readability but retains clear semantic structure. 
+Stanza anchors use id="stanza-C-S" format, e.g. id="stanza-1-42" for Canto 1 stanza 42.
+All textual content is present in the initial HTML response without JavaScript.
 The PDF is the preferred version for human readers. This transcript exists to enable precise citation.
