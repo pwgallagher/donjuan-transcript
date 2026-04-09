@@ -2,7 +2,7 @@
 
 > Machine-readable transcript for indexing and scholarly citation.
 > For the illustrated canonical edition with commentary, download the PDF:
-> https://petergallagher.net/files/DonJuanRoot-opt.pdf
+> https://...
 
 **Author of edition:** Peter Gallagher
 **Original author:** George Gordon Byron (Lord Byron)
@@ -26,7 +26,7 @@
 Images referenced in the text are under /assets/. Filenames preserved from print edition.
 
 ## Citation
-Gallagher, Peter, ed. *Byron's Don Juan, Cantos 1–5: An Annotated Illustrated Edition*. Melbourne, 2026. CC BY 4.0.
+Gallagher, Peter, ed. *Don Juan, Cantos I–V: An Annotated Edition*. Melbourne, 2026. CC BY 4.0.
 Canonical PDF: https://
 Machine-readable transcript: https://transcript.petergallagher.net/
 
