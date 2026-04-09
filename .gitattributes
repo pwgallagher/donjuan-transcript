@@ -1,4 +1,4 @@
-# Auto detect text files and normalize line endings
+# Auto detect text files and normalize to LF in repo
 * text=auto
 
 # Explicit text files
@@ -10,7 +10,7 @@
 *.json text
 *.md text
 
-# Binary files - don't try to diff these
+# Binary files - do not modify line endings
 *.png binary
 *.jpg binary
 *.jpeg binary
@@ -19,8 +19,10 @@
 *.ico binary
 *.woff binary
 *.woff2 binary
+*.pdf binary
 
-# Force LF for the critical files Cloudflare serves
+# Force LF for critical files so crawlers don't choke on CRLF
 /robots.txt text eol=lf
 /llms.txt text eol=lf
 /sitemap.xml text eol=lf
+/LICENSE text eol=lf
