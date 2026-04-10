@@ -17,4 +17,8 @@
 
 # OS-specific files
 .DS_Store   binary
+<<<<<<< HEAD
 Thumbs.db   binary
+=======
+Thumbs.db   binary
+>>>>>>> 36b50783bae18724071a20f3ab4c1c09dfbd21d6

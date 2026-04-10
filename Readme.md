@@ -24,8 +24,8 @@ formatting, download the canonical PDF:
 - `LICENSE` – CC BY 4.0
 
 ## Stanza Anchors
-Each stanza uses id="stanza-C-S" where C = canto, S = stanza.
-Example: `canto1.html#stanza-1-42` links to Canto 1, stanza 42.
+Each stanza uses id="dj-C-S" where C = canto, S = stanza.
+Example: `canto1.html#dj-1-42` links to Canto 1, stanza 42.
 
 ## License
 CC BY 4.0. See LICENSE file. Attribution required.
@@ -33,7 +33,7 @@ CC BY 4.0. See LICENSE file. Attribution required.
 ## Citation
 Gallagher, Peter, ed. *Byron's Don Juan, Cantos 1–5: An Annotated Illustrated
 Edition*. Melbourne, 2026. CC BY 4.0.
-Canonical PDF: https://petergallagher.net/files/DonJuanRoot-opt.pdf
+Canonical PDF: https://petergallagher.net/byrons-don-juan-cantos-1-5-annotated/
 Transcript: https://transcript.petergallagher.net/
 
 ## Contact

@@ -6,4 +6,8 @@ Thumbs.db
 .env
 node_modules/
 dist/
+<<<<<<< HEAD
 build/
+=======
+build/
+>>>>>>> 36b50783bae18724071a20f3ab4c1c09dfbd21d6
