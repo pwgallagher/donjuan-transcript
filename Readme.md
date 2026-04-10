@@ -33,7 +33,7 @@ CC BY 4.0. See LICENSE file. Attribution required.
 ## Citation
 Gallagher, Peter, ed. *Byron's Don Juan, Cantos 1–5: An Annotated Illustrated
 Edition*. Melbourne, 2026. CC BY 4.0.
-Canonical PDF: https://petergallagher.net/files/DonJuanRoot-opt.pdf
+Canonical PDF: https://petergallagher.net/byrons-don-juan-cantos-1-5-annotated/
 Transcript: https://transcript.petergallagher.net/
 
 ## Contact
